@@ -9,4 +9,5 @@
     show                show all books from the database
     export              export database to json
 
-    // See the usage details in --help
+    // See the usage details: 
+    python3 main.py --help
